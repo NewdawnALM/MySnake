@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Snake.h" open="1" top="1" tabpos="6" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7612" topLine="54" />
+		</Cursor>
+		<Folding>
+			<Collapse line="49" />
+			<Collapse line="90" />
+		</Folding>
+	</File>
+	<File name="WinAPI.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="547" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Info.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="318" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Node.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="397" topLine="17" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="275" topLine="31" />
+		</Cursor>
+	</File>
+	<File name="Map.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="217" topLine="21" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
