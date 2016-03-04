@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1446206288 source:e:\game\mysnake\main.cpp
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<algorithm>
+	"WinAPI.h"
+	"Info.h"
+	"Map.h"
+	"Node.h"
+	"Snake.h"
+
+1446369988 
+
+1446205463 e:\game\mysnake\winapi.h
+	<windows.h>
+
+1446369277 >
+
+1446212766 e:\game\mysnake\info.h
+
+1446211355 e:\game\mysnake\map.h
+
+1446212766 e:\game\mysnake\node.h
+
+1446210636 e:\game\mysnake\snake.h
+	<vector>
+
+1446308395 source:f:\c++\game\snake\mysnake\main.cpp
+	"WinAPI.h"
+	"Info.h"
+	"Map.h"
+	"Snake.h"
+
+1446205464 f:\c++\game\snake\mysnake\winapi.h
+	<windows.h>
+
+1446212896 f:\c++\game\snake\mysnake\info.h
+	<cstdio>
+	<cstring>
+	<string>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<algorithm>
+
+1446306638 f:\c++\game\snake\mysnake\map.h
+	"Node.h"
+	<vector>
+
+1446310477 f:\c++\game\snake\mysnake\node.h
+
+1446310360 f:\c++\game\snake\mysnake\snake.h
+	<vector>
+
+1446369675 source:g:\game\snake\mysnake\main.cpp
+	"WinAPI.h"
+	"Info.h"
+	"Map.h"
+	"Snake.h"
+
+1446205464 g:\game\snake\mysnake\winapi.h
+	<windows.h>
+
+1446369277 g:\game\snake\mysnake\info.h
+	<cstdio>
+	<cstring>
+	<string>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<algorithm>
+
+1446369315 g:\game\snake\mysnake\map.h
+	"Node.h"
+	<vector>
+
+1446369139 g:\game\snake\mysnake\node.h
+
+1446369988 g:\game\snake\mysnake\snake.h
+	<vector>
+
+1446369676 source:/home/newdawn/ALM/cpp/MySnake/main.cpp
+	"WinAPI.h"
+	"Info.h"
+	"Map.h"
+	"Snake.h"
+
+1446205464 /home/newdawn/ALM/cpp/MySnake/WinAPI.h
+	<windows.h>
+
+1446369278 /home/newdawn/ALM/cpp/MySnake/Info.h
+	<cstdio>
+	<cstring>
+	<string>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<algorithm>
+
+1446369316 /home/newdawn/ALM/cpp/MySnake/Map.h
+	"Node.h"
+	<vector>
+
+1446369140 /home/newdawn/ALM/cpp/MySnake/Node.h
+
+1446369990 /home/newdawn/ALM/cpp/MySnake/Snake.h
+	<vector>
+
