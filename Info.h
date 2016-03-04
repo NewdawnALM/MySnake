@@ -65,6 +65,6 @@ namespace info {
         if(dir == up)   return down;
         if(dir == down)    return up;
         if(dir == left)    return right;
-        if(dir == right)    return left;
+        if(dir == right)    return left; 
     }
 }
